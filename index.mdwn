@@ -1,0 +1,3 @@
+<img src="../images/dataverse_network-logo.png">
+
+Dataverse Network (DVN) home page: http://thedata.org
